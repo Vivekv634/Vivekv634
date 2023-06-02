@@ -23,4 +23,3 @@ Hello readers, my name is **Vivek Vaish** and I am currently pursuing B.Tech deg
 ## 🙌 Contact Me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/vivek-vaish-bb5803257/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=blue)](https://www.instagram.com/v.codr/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail&logoColor=white&color=blue)](vaishvivek634@gmail.com)

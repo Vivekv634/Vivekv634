@@ -1,4 +1,4 @@
-[![Profile banner](https://github.com/Vivekv634/VivekVaish/blob/main/profile%20banner.png)](https://www.instagram.com/v.codr/)
+[![Profile banner](https://github.com/Vivekv634/VivekVaish/blob/main/profile%20banner.png)]
 
 ## 👋 Hey there
 Hello readers, my name is **Vivek Vaish** and I am currently pursuing B.Tech degree from [**Galgotias University**](https://www.galgotiasuniversity.edu.in/), Greater Noida.

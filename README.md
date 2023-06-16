@@ -1,14 +1,14 @@
 ![Profile banner](https://github.com/Vivekv634/VivekVaish/blob/main/profile%20banner.png)
 
 ## 👋 Hey there
-Hello readers, my name is **Vivek Vaish** and I am currently pursuing B.Tech degree from [**Galgotias University**](https://www.galgotiasuniversity.edu.in/), Greater Noida.
+Hello readers, my name is **Vivek Vaish** and I am pursuing a B.Tech degree from [**Galgotias University**](https://www.galgotiasuniversity.edu.in/), Greater Noida.
 <br>
 <br>
 
 ## 🧑‍💻 About Me
-* I'm an intermediate programmer.
-* I am interested in Software development, Web developmet and new technologies about them.
-* I am currently learning.
+* 😀 I'm an intermediate programmer.
+* 🔍 I am interested in Software development, Web development and new technologies about them.
+* 🌱 I am currently learning.
 <br>
 
 ## 💼 Tech Stack

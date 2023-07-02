@@ -19,6 +19,7 @@ Hello readers, my name is **Vivek Vaish** and I am pursuing a B.Tech degree from
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=Html&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=blue)
 
 ## 🙌 Contact Me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/vivek-vaish-bb5803257/)

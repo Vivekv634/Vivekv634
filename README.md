@@ -1,3 +1,6 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![Profile banner](https://github.com/Vivekv634/VivekVaish/blob/main/profile%20banner.png)
 
 ## 👋 Hey there

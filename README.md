@@ -28,6 +28,6 @@ Hello readers, my name is **Vivek Vaish** and I am pursuing a B.Tech degree from
 </p>
 
 ## 🙌 Contact Me
-[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/vivek-vaish-bb5803257/)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" target="_blank"/>](https://www.linkedin.com/in/vivek-vaish-bb5803257/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.simpleicons.org/instagram" />](https://www.instagram.com/v.codr/)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="32" width="32" src="avatar.svg" />](https://vivekv634.github.io/Portfolio/)&nbsp;&nbsp;&nbsp;&nbsp;

@@ -15,16 +15,19 @@ Hello readers, my name is **Vivek Vaish** and I am pursuing a B.Tech degree from
 <br>
 
 ## 💼 Tech Stack
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=Html&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=Javascript&logoColor=white&color=blue)
+<p float="left">
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/orange/lightblue" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/mysql/orange/lightblue" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/jquery/taleblue" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/express/green" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5/orangered/" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3/taleblue" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/yellow" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/c/orange/lightblue" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/c++/talekblue" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 ## 🙌 Contact Me
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/vivek-vaish-bb5803257/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=blue)](https://www.instagram.com/v.codr/)
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-blue)](https://vivekv634.github.io/Portfolio/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/vivek-vaish-bb5803257/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/instagram" />](https://www.instagram.com/v.codr/)
+[<img height="32" width="32" src="https://cdn.simpleicons.org/www" />](https://vivekv634.github.io/Portfolio/)

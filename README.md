@@ -16,14 +16,14 @@ Hello readers, my name is **Vivek Vaish** and I am pursuing a B.Tech degree from
 
 ## 💼 Tech Stack
 <p float="left">
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/talekblue" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/python/seablue" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/mysql/seablue" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/jquery/taleblue" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/express/green" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5/orangered/" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3/taleblue" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/yellow" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/c/talekblue" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/c/seablue" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/c++/talekblue" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 

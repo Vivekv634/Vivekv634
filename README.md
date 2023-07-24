@@ -34,6 +34,8 @@ Hello readers, my name is **Vivek Vaish** and I am pursuing a B.Tech degree from
 <img height="32" width="32" src="https://cdn.simpleicons.org/express/green" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/c/" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/c++/" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/git/" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/github/black/white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 

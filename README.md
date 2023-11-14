@@ -30,15 +30,17 @@ Hello readers, my name is **Vivek Vaish** and I am pursuing a B.Tech degree from
 <img height="32" width="32" src="https://cdn.simpleicons.org/css3/" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/jquery/" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/npm/" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/express/green" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/react" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/npm/" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/c/" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/c++/" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/git/" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/github/black/white" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/axios" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 

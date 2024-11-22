@@ -24,21 +24,22 @@ Hello readers, my name is **Vivek Vaish** and I am pursuing a B.Tech degree from
 
 ## 💼 Tech Stack
 <p float="left">
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/mysql/" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5/" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3/" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript/" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/jquery/" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongoose" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/express/green" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/react" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/node.js" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/npm/" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/c/" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/c++/" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/git/" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.simpleicons.org/github/black/white" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/axios" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>

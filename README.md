@@ -1,24 +1,19 @@
 ![Profile banner](https://github.com/Vivekv634/VivekVaish/blob/main/profile%20banner.png)
 
 ## 👋 Hey there
-Hello readers, my name is **Vivek Vaish** and I am pursuing a B.Tech degree from [**Galgotias University**](https://www.galgotiasuniversity.edu.in/), Greater Noida.
+Hello readers, my name is **Vivek Vaish**, a coding enthusiast who is interested in the web technologies & tech stacks
 <br>
 <br>
 
-## 🧑‍💻 About Me
-* 😀 I'm an intermediate programmer.
-* 🔍 I am interested in Software development, Web development and new technologies about them.
-* 🌱 I am currently learning.
-<br>
-
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vivekv634&show_icons=true&theme=tokyonight)
 
 ## ✅ What I've Created
 | Project Name | Project Description |
 |:------------:|---------------------|
-| Personal Portfolio | I have created my website to show all my tech-related skills to the world. You can check out from [**here**](https://vivekv634.github.io/Portfolio). |
-| Notepad Clone | When I was new to programming, I learned Python and from Python, I cloned Microsoft's Notepad as my first project. Checkout from [**here**](https://github.com/Vivekv634/Notepad-clone). |
-| EMS | EMS (Employee Management System) was built using C++ programming language to secure and manipulate the Employee's data. Check this out from [**here**](https://github.com/Vivekv634/EMS-cpp). |
-| To-Do List App | I created this app out of JavaScript to maintain all my tasks throughout the day. It saves and reloads all your task data whenever the browser reloads, reopened and closed. Checkout from [**here**](https://vivekv634.github.io/To-Do-App/). |
+| [**AutoBook**](https://autobook1.vercel.app) | AutoBook is an advanced note-taking application made with NextJS, with an automatic note-creation feature based on user choice. |
+| [**Markdown Editor**](https://github.com/Vivekv634/markdown-editor) | Live markdown editor with good responsive UI made with Typescript. Also support download and upload the markdown. |
+| [**To-Do List App**](https://vivekv634.github.io/To-Do-App/) | I created this app with JavaScript to maintain all my daily tasks. It saves and reloads all your task data whenever the browser reloads, reopens and closes. Checkout from. |
+| EMS | EMS (Employee Management System) was built using C++ programming to secure and manipulate the Employee's data. Check this out from [**here**](https://github.com/Vivekv634/EMS-cpp). |
 <br>
 
 
@@ -40,16 +35,15 @@ Hello readers, my name is **Vivek Vaish** and I am pursuing a B.Tech degree from
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/axios" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ## 🙌 Contact Me
-[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/vivek-vaish-bb5803257/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.simpleicons.org/instagram" />](https://www.instagram.com/v.codr/)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="32" width="32" src="avatar.svg" />](https://vivekv634.github.io/Portfolio/)&nbsp;&nbsp;&nbsp;&nbsp;
-<br>
+[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/vivekv634/)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="32" width="32" src="https://cdn.simpleicons.org/instagram" />](https://www.instagram.com/vertexbit/)&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://vertexbit-portfolio.vercel.app/">
+  <img src="https://autobook1.vercel.app/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fnotesnook1.appspot.com%2Fo%2FuserProfileImage%252FoJ0tZPW5E9T2X8cxFpukO062Rga2%3Falt%3Dmedia%26token%3D26a78ead-abf5-4553-b2d9-d0cb0e219e58&w=256&q=75" alt="Profile Image" height="32" width="32" style="border-radius: 50%; display: block;" />
+</a>
